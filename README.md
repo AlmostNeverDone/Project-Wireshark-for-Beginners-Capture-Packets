@@ -21,17 +21,24 @@ In this project, I used Wireshark to capture packets on a certain interface and 
 
 - <b>Coursera platform (Coursera 線上學習平台)</b> 
 - <b>Virtual Cloud Workspace (虛擬雲端工作區)</b>
-- <b>PC (win10,個人電腦對照差異)</b> 
+- <b>PC (win10,個人電腦對照差異)</b>
+
+Tasks:
+- <b>Install and set up Wireshark on Ubuntu (在 Ubuntu 上安裝並設定 Wireshark)</b>
+- <b>Start a packet capture on an ethernet port and save it to file (在乙太網路連接埠上啟動封包擷取並將其儲存到檔案中)</b>
+- <b>Use a display filter to detect HTTPS packets (使用顯示過濾器檢測 HTTPS 封包)</b>
+- <b>Visit a web page and detect its IP address using a display filter (造訪網頁並使用顯示過濾器偵測其 IP 位址)</b>
+- <b>Locate all HTTPS packets from a capture not containing a certain IP address (尋找擷取中不包含特定 IP 位址的所有 HTTPS 封包)</b>
 
 <h2>Program walk-through 程式演練</h2>
 
 <p align="center">
-Lab1-1-Scan options:Custom scan 掃描選項:自訂掃描 <br/>
-<img src="https://i.imgur.com/8rEhbGi.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Task 1: Install and set up Wireshark on Ubuntu(在 Ubuntu 上安裝並設定 Wireshark) <br/>
+<img src="https://i.imgur.com/NXBzFip.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Lab1-2-PC Scan(Control Group) PC掃描(對照組)  <br/>
-<img src="https://i.imgur.com/fXfCSYV.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Task 2: Start a packet capture on an ethernet port and save it to file(在乙太網路連接埠上啟動封包擷取並將其儲存到檔案中)  <br/>
+<img src="https://i.imgur.com/wQ1eb8n.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Lab2-1-Review Firewall Configuration 檢視防火牆配置 <br/>
