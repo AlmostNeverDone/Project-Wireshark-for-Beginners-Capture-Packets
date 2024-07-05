@@ -33,22 +33,25 @@ Tasks:
 <h2>Program walk-through 程式演練</h2>
 
 <p align="center">
-Task 1: Install and set up Wireshark on Ubuntu(在 Ubuntu 上安裝並設定 Wireshark) <br/>
+Task 1: Install and set up Wireshark on Ubuntu (在 Ubuntu 上安裝並設定 Wireshark) <br/>
 <img src="https://i.imgur.com/NXBzFip.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 2: Start a packet capture on an ethernet port and save it to file(在乙太網路連接埠上啟動封包擷取並將其儲存到檔案中)  <br/>
+Task 2: Start a packet capture on an ethernet port and save it to file (在乙太網路連接埠上啟動封包擷取並將其儲存到檔案中)  <br/>
 <img src="https://i.imgur.com/wQ1eb8n.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Lab2-1-Review Firewall Configuration 檢視防火牆配置 <br/>
-<img src="https://i.imgur.com/htrpTz2.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Task 3: Use a display filter to detect HTTPS packets (使用顯示過濾器檢測 HTTPS 封包) <br/>
+<img src="https://i.imgur.com/ftcogGB.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Lab2-2-Configure Firewall Rules 配置防火牆規則  <br/>
-<img src="https://i.imgur.com/iRpj4Gd.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Task 4: Visit a web page and detect its IP address using a display filter (造訪網頁並使用顯示過濾器偵測其 IP 位址) <br/>
+<img src="https://i.imgur.com/1NwFWYB.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br />
+Task 5: Locate all HTTPS packets from a capture not containing a certain IP address (尋找擷取中不包含特定 IP 位址的所有 HTTPS 封包) <br/>
+<img src="https://i.imgur.com/budqLQX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 <!--
  ```diff
