@@ -1,11 +1,11 @@
-<h1>Project: Wireshark for Beginners: Capture Packets</h1>
-專題: Wireshark 初學者：擷取封包
+<h1>Project: Wireshark for Beginners - Capture Packets</h1>
+專題: 初學 Wireshark - 擷取封包
 
 
 <h2>Outline 簡介</h2>
 In this project, I used Wireshark to capture packets on a certain interface and use filters to observe website traffic by taking on the role of a novice security analyst helping a company detect certain network traffic on their server by capturing and analyzing web traffic.
 
-<b>在本次專題中，我使用 Wireshark 捕獲某個介面上的資料包，並使用過濾器觀察網站流量。藉由扮演新手安全分析師的角色，捕獲和分析網路，幫助公司檢測其伺服器上的某些特定流量。</b>
+<b>在本次專題中使用 Wireshark 捕獲某個介面上的資料包，並以過濾器觀察網站流量。藉由扮演新手安全分析師的角色，捕獲和分析網路，幫助公司檢測其伺服器上的某些特定流量。</b>
 <br />
 
 
