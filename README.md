@@ -30,7 +30,7 @@ Tasks:
 - <b>Visit a web page and detect its IP address using a display filter (造訪網頁並使用顯示過濾器偵測其 IP 位址)</b>
 - <b>Locate all HTTPS packets from a capture not containing a certain IP address (尋找擷取中不包含特定 IP 位址的所有 HTTPS 封包)</b>
 
-<h2>Program walk-through 程式演練</h2>
+<h2>Practice 實踐</h2>
 
 <p align="center">
 Task 1: Install and set up Wireshark on Ubuntu (在 Ubuntu 上安裝並設定 Wireshark) <br/>
