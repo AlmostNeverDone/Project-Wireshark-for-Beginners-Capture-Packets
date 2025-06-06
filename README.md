@@ -1,5 +1,5 @@
-<h1>Project: Wireshark for Beginners - Capture Packets</h1>
-專題: 初學 Wireshark - 擷取封包
+<h1>Wireshark for Beginners - Capture Packets</h1>
+初學 Wireshark - 擷取封包
 
 
 <h2>Outline 簡介</h2>
