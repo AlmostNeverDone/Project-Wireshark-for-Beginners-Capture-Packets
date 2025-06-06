@@ -9,7 +9,7 @@ In this project, I used Wireshark to capture packets on a certain interface and 
 <br />
 
 
-<h2>Project Objectives 專題目的</h2>
+<h2>Objectives 目的</h2>
 
 - <b>Install and set up Wireshark on Linux. (在 Linux 上安裝並設定 Wireshark)</b>
 - <b>Capture and save packets on a detected network using Wireshark. (使用 Wireshark 擷取並儲存偵測到的網路上的資料包)</b> 
